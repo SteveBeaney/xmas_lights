@@ -24,7 +24,7 @@ position data. Scripts to drive patters of the lights. These
 scripts will utilise a laptop and web cam.
 
 * Build the hardware.
-  *   [Circuit descriptin](./arduino/wiring/README.md)
+  *   [Circuit description](./arduino/wiring/README.md)
 * Program the micro-controller
 * Program a light controller
   * Set colour pattern
