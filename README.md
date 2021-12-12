@@ -6,6 +6,7 @@ A project to build and control a set of Christmas tree lights.
 Each light an individually addressable RGB LED. The lights are 
 on the local wifi. So any wifi connected device can send a 
 pattern of colours to the lights. 
+
 If The lights are scattered on a Christmas tree: then we need 
 to determine the spatial co-ordinates of the lights in order 
 to make spatially sensible patterns.
@@ -41,5 +42,3 @@ scripts will utilise a laptop and web cam.
   * python project to determine the light positions.
 * `./python/patterns`
   * python project to make a light show.
-
- 
